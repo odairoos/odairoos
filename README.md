@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Odair Oliveira de Sá
-- 👀 I’m interested in artifical intelligence and Big Data techniques
-- 🌱 I’m currently Phd studant in Computer Engineering 
-- 📫 How to reach me can be by email: ooliveiras@hotmail.com
+- 👋 Olá, eu sou Odair Oliveira de Sá
+- 👀 No presente momento, sou estudante do Programa de Pós-graduação em Engenharia da Computação pelo Instituto Tecnológico de Aeronáutica (ITA)
+- 🌱 Estou pesquisando como usar BIG DATA com dados de Controle do Espaço Aéreo para detectar anomalias em trajetórias de voos e com isso antecipar decisões para manter o espaço aéreo seguro.
+- 📫 Posso ser contatado pelos emails: ooliveiras@hotmail.com   ou   odair@ita.br
 
 <!---
 odairoos/odairoos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
